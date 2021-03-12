@@ -38,5 +38,5 @@ Our team wanted to develop a pipeline that would help forecast which cities in t
 our findings to a client. This client could be into real estate and wanting to know where they can buy cheap and sell high in a few years, smaller businesses
 wanting to expand into new areas, or just a family wanting to find a new place to move to. We gathered relevant historical data from federal websites and used
 the machine learning model ARIMA to forecast what these numbers would look like in 2024 for 381 Metropolitan Statistical Areas (MSA's). With this data, we ranked
-the MSA's and developed a dynamic web app to present our client with our findings. Feel free to visit [MetroGnomics],(http://msa-prediction.herokuapp.com/index?mode=dark)
+the MSA's and developed a dynamic web app to present our client with our findings. Feel free to visit [MetroGnomics](http://msa-prediction.herokuapp.com/index?mode=dark)
 our fully developed web app.
